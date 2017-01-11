@@ -69,8 +69,8 @@ docker images
 docker run <image_name>
 ```
 
-# Roadmap
-  * Complete the REST API 
+# TODO
+  * FIX SERVER API SYNC 
   * Registery/store implementations
   * docker-compose and docker-machine support
-  * Android development
+
