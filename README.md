@@ -1,6 +1,6 @@
 Credit to jkingyens for the [base repo](https://github.com/jkingyens/docker4xcode) 
 
-Minor modifications have been made to suite the needs of the [docker client I'm using](https://github.com/EricCanull/kitematic-dark-theme).
+Modifications made to suite needs of the [docker client I'm using](https://github.com/EricCanull/kitematic-dark-theme).
 
 # Docker for iOS Development
 Build and ship iOS apps with standard docker client. Just drop a Dockerfile into an XCode project and build+distribute using docker containers.
