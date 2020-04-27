@@ -1,4 +1,5 @@
-Credit to jkingyens for the [base repo](https://github.com/jkingyens/docker4xcode) minor modifications have been made to suite the needs of my docker client.
+Credit to jkingyens for the [base repo](https://github.com/jkingyens/docker4xcode) 
+Minor modifications have been made to suite the needs of my docker client.
 
 # Docker for iOS Development
 Build and ship iOS apps with standard docker client. Just drop a Dockerfile into an XCode project and build+distribute using docker containers.
